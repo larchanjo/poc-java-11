@@ -4,6 +4,7 @@ The Java 11 was release at 09/2018 and the main features are:
 
 - Strings New Methods
 - File read and write strings
+- Local-Variable Syntax for Lambda Parameters
 
 The full release notes is [here]
 
